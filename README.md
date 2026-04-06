@@ -36,7 +36,6 @@ I'm an ML/AI Engineer who loves turning data into valuable insights and deployin
 ### 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/abaidullah-ramay)
-- [YouTube](https://www.youtube.com/@AbaidullahRamay)
 
 ---
 
