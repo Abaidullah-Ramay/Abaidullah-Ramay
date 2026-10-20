@@ -13,7 +13,6 @@ I build intelligent software systems that deliver immediate, real-world value. R
 - 💻 **Primary Stack:** Python, TypeScript, FastAPI, React
 - 🧠 **AI Expertise:** Multi-Agent Orchestration (LangGraph, CrewAI), Model Context Protocol (MCP), Multimodal RAG, LLMOps (LangSmith)
 - 🎯 **Currently Focusing On:** AI-first development methodologies, scaling deterministic tool calling, and expanding MCP integrations.
-- 📺 **Community:** I run **Desi Neural** on YouTube, creating tutorials on MLOps, LLMs, and agentic workflows in Hindi/Urdu.
 
 ---
 
@@ -21,9 +20,9 @@ I build intelligent software systems that deliver immediate, real-world value. R
 
 - **AI & Agentic Frameworks:** LangGraph, CrewAI, LangChain, Model Context Protocol (FastMCP)
 - **Data & Vector Stores:** ChromaDB, pgvector, PostgreSQL, FAISS
-- **Backend & APIs:** Python, FastAPI, Node.js, RESTful Architecture
+- **Backend & APIs:** Python, FastAPI, RESTful Architecture
 - **Infrastructure & LLMOps:** Docker, AWS, Microsoft Azure, LangSmith, Ragas, GitHub Actions
-- **AI-First Tools:** Cursor, Claude Code, GitHub Copilot
+- **AI-First Tools:** Claude Code
 
 ---
 
